@@ -1,2 +1,2 @@
 # demo
-To do some activities on git
+To do some activities
